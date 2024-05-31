@@ -7,6 +7,8 @@ Este projeto é parte de uma plataforma de gerenciamento de contas em uma arquit
 
 ## Estrutura do Projeto
 
+```
 store/
 │   ├── front/
 │   └── README.md
+```
