@@ -9,6 +9,6 @@ Este projeto é parte de uma plataforma de gerenciamento de contas em uma arquit
 
 ```
 store/
-│   ├── front/
-│   └── README.md
+├── front/
+└── README.md
 ```
